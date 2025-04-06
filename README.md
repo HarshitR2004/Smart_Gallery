@@ -12,3 +12,6 @@
 #### https://jalammar.github.io/
 #### https://www.youtube.com/watch?v=bCz4OMemCcA
 #### https://huggingface.co/docs/transformers/en/training
+
+## Application Link
+#### https://expo.dev/accounts/mani5h/projects/my-app/builds/3ded99a9-a919-488f-8b5a-3440bba08fb6
